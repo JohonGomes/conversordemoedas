@@ -91,19 +91,3 @@ Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição
 ## Licença 📄
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
-
-## Contato 📧
-
-Seu Nome - seu-email@example.com
-
-Link do Projeto: https://github.com/seu-usuario/conversor-moedas
-
-## Agradecimentos 🙏
-
-- Exchange Rate API
-- Comunidade Java
-- Desenvolvedores de código aberto
-
----
-
-**Nota**: Lembre-se de substituir "seu-usuario" e "seu-email" pelos seus dados reais ao criar o repositório no GitHub.
